@@ -5,7 +5,7 @@
         <br>
             <br>
                 <br>
-                    <h2 align="center">UJIAN TENGAH SEMESTER</h2>
+                    <h2 align="center">LAPORAN PRAKTIKUM</h2>
                 <br>
             <br>
         <br>
