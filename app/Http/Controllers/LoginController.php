@@ -34,7 +34,7 @@ class LoginController extends Controller
         }
     return redirect('login')
         ->withInput()
-        ->withErrors(['login_gagal' => 'ini kredensial tidak sama dengan baris']);
+        ->withErrors(['login_gagal' => 'kredensial ini tidak sama dengan baris']);
 
     }
 }
